@@ -25,12 +25,8 @@ i
 9src/main/java/com/tech/spotify/config/SecurityConfig.java,d/5/d5c8c563e3ace3d89977a8ab1a60278e9e749e0e
 x
 Hsrc/main/java/com/tech/spotify/config/oauth/provider/GoogleUserInfo.java,1/d/1dc371c0c6554170fb27a8e38fc6a7d2efda2520
-x
-Hsrc/main/java/com/tech/spotify/config/oauth/provider/OAuth2UserInfo.java,7/a/7a8eb465d96979c7db4d11045488e238344496d3
 w
 Gsrc/main/java/com/tech/spotify/config/oauth/provider/NaverUserInfo.java,f/a/fa71d64b042d8955e1d5c77c8ddb6fb938fd5bcd
-{
-Ksrc/main/java/com/tech/spotify/config/oauth/PrincipalOauth2UserService.java,1/0/10d20f01105122b9305d113ad1ca9b6d1412b59f
 7
 gradlew,5/b/5bbfa66edb4db3c7c33c5181f43510990d3307f9
 o
