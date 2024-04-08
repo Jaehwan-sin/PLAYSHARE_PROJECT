@@ -1,0 +1,12 @@
+
+f	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÆŞ¬
+k	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(² ¼øÿÿÿÿ
+c	java:S100I"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜·ˆ¼
+h	java:S100d"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ëê¶ûÿÿÿÿ
+a	java:S100l"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ûA
+\
+java:S1854q"ARemove this useless assignment to local variable "savedPlaylist".(µúßöıÿÿÿÿ
+M
+java:S1481q"2Remove this unused "savedPlaylist" local variable.(µúßöıÿÿÿÿ
+m
+java:S1128"PRemove this unused import 'com.fasterxml.jackson.databind.type.LogicalType.Map'.(¹›…ƒ8…ÉÏê1

@@ -1,0 +1,13 @@
+
+i
+java:S2259/"LA "NullPointerException" could be thrown; "oAuth2UserInfo" is nullable here.(¸Ú–¤8÷ú¡œë1
+G	java:S106"+Replace this use of System.out by a logger.(Ñƒ´8Ğ÷çê1
+L	java:S106"+Replace this use of System.out by a logger.(ä­ôşûÿÿÿÿ8Ğ÷çê1
+G	java:S106"+Replace this use of System.out by a logger.(Óƒª¶8Ğ÷çê1
+L	java:S106 "+Replace this use of System.out by a logger.(†ÛÊÿüÿÿÿÿ8Ğ÷çê1
+L	java:S106!"+Replace this use of System.out by a logger.(Ã±¤Ôşÿÿÿÿ8Ñ÷çê1
+G	java:S106&"+Replace this use of System.out by a logger.(€„„8Ñ÷çê1
+L	java:S106)"+Replace this use of System.out by a logger.(ù¾ˆ‘ùÿÿÿÿ8Ñ÷çê1
+L	java:S106,"+Replace this use of System.out by a logger.(ŠĞ§Éøÿÿÿÿ8Ó÷çê1
+S
+java:S64372"6Revoke and change this password, as it is compromised.(³ËÄæ8üú¡œë1

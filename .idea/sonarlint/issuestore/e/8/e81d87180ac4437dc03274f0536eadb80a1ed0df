@@ -1,0 +1,8 @@
+
+E	java:S106/"+Replace this use of System.out by a logger.(ì©¦Šøÿÿÿÿ
+h
+java:S62042"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+F
+java:S1172:"0Remove this unused method parameter "loginUser".(Ãßöè
+^
+java:S1128"<Remove this unused import 'javax.xml.stream.events.Comment'.(ò©Ëÿÿÿÿÿ8Êš¢÷ê1

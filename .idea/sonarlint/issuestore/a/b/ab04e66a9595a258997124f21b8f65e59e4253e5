@@ -1,0 +1,14 @@
+
+o
+java:S22595"MA "NullPointerException" could be thrown; "loginRequestDto" is nullable here.(÷•¸¹ûÿÿÿÿ8©ŞÏë1
+G	java:S106%"+Replace this use of System.out by a logger.(àÄŠš8µ²ÿŒë1
+G	java:S1060"+Replace this use of System.out by a logger.(…‰½É8¾²ÿŒë1
+G	java:S1068"+Replace this use of System.out by a logger.(ÄÀ‰Ù8¾²ÿŒë1
+G	java:S1069"+Replace this use of System.out by a logger.(ÕäŞí8¾²ÿŒë1
+L	java:S106F"+Replace this use of System.out by a logger.(ëğ§©ıÿÿÿÿ8Ÿşµœë1
+L	java:S106I"+Replace this use of System.out by a logger.(³—ÿÿÿÿÿ8¤´¶œë1
+X
+java:S6437Y"6Revoke and change this password, as it is compromised.(ûã‘‡ùÿÿÿÿ8»ŞÏë1
+F	java:S106["+Replace this use of System.out by a logger.(íİ N8ãÛôë1
+U
+java:S1128"9Remove this unused import 'com.tech.spotify.domain.User'.(ù¡Ü78»ŞÏë1

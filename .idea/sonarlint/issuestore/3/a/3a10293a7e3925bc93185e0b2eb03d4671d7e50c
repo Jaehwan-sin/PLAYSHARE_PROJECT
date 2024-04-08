@@ -1,0 +1,19 @@
+
+v
+java:S1192x"TDefine a constant instead of duplicating this literal "My_Page/My_playlist" 3 times.(»û¯úÿÿÿÿ8Ó®õæê1
+r	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êâºšıÿÿÿÿ8Ó®õæê1
+r	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êâºšıÿÿÿÿ8Ó®õæê1
+r	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒêÕ–üÿÿÿÿ8Ó®õæê1
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êâºšıÿÿÿÿ8Ô®õæê1
+s	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êâºšıÿÿÿÿ8Ô®õæê1
+n	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ŒÓø8Ô®õæê1
+a
+java:S18548"?Remove this useless assignment to local variable "LoginUserId".(Êâºšıÿÿÿÿ8ø®õæê1
+R
+java:S14818"0Remove this unused "LoginUserId" local variable.(Êâºšıÿÿÿÿ8ù®õæê1
+j	java:S100|"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë„È¸8û®õæê1
+b
+java:S1854"?Remove this useless assignment to local variable "LoginUserId".(Êâºšıÿÿÿÿ8û®õæê1
+S
+java:S1481"0Remove this unused "LoginUserId" local variable.(Êâºšıÿÿÿÿ8ü®õæê1
+k	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÇ‡ƒ8ı®õæê1

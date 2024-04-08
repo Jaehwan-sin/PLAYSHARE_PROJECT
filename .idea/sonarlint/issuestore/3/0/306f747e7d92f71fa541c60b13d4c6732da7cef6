@@ -1,0 +1,5 @@
+
+?	java:S1068"+Replace this use of System.out by a logger.(¨ï‘s
+@	java:S106<"+Replace this use of System.out by a logger.(×ß»œ
+t
+java:S1128"YRemove this unused import 'org.springframework.security.crypto.password.PasswordEncoder'.(‰¡ßáÿÿÿÿÿ

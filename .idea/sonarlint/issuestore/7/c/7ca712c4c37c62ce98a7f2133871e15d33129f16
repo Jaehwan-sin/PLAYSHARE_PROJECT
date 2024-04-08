@@ -1,0 +1,12 @@
+
+h
+java:S1192,"KDefine a constant instead of duplicating this literal "isLoggedIn" 5 times.(‡Õİû8í¤œë1
+L	java:S106$"+Replace this use of System.out by a logger.(ª‡¬úÿÿÿÿ8Â²‹Ïê1
+p
+java:S6201*"NReplace this instanceof check and cast with 'instanceof OAuth2User oAuth2User'(õ¾¥õıÿÿÿÿ8õ¤œë1
+L	java:S106."+Replace this use of System.out by a logger.(‡Öèäùÿÿÿÿ8ùûÓãê1
+G	java:S1067"+Replace this use of System.out by a logger.(˜İ‹†8æ•‘ë1
+G	java:S1068"+Replace this use of System.out by a logger.(× ¡³8ù¤œë1
+G	java:S1069"+Replace this use of System.out by a logger.(ÒÓÆÁ8ù¤œë1
+L	java:S106<"+Replace this use of System.out by a logger.(€İÅƒüÿÿÿÿ8ù¤œë1
+G	java:S106="+Replace this use of System.out by a logger.(ÒÓÆÁ8ù¤œë1
