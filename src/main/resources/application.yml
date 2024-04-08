@@ -13,7 +13,7 @@ spring:
 
           naver:
             client-id: 
-            client-secret: 
+            client-secret:  
             scope:
               - name
               - email
