@@ -26,7 +26,7 @@ public class HomeController {
     }
 
     @GetMapping("/hello")
-    public String check() {
+    public String cicd_check() {
         return "ci cd aws 정상작동";
     }
 
