@@ -13,6 +13,7 @@ import org.springframework.security.config.annotation.web.configuration.EnableWe
 import org.springframework.security.config.http.SessionCreationPolicy;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
+import org.springframework.security.oauth2.client.registration.ClientRegistrationRepository;
 import org.springframework.web.filter.CorsFilter;
 
 @Configuration
@@ -23,6 +24,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
     private final UserRepository userRepository;
     private final CorsConfig corsConfig;
     private final PrincipalOauth2UserService principalOauth2UserService;
+    private final ClientRegistrationRepository clientRegistrationRepository;
 
     @Bean
     public BCryptPasswordEncoder passwordEncoder() {
@@ -47,6 +49,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
                 .anyRequest().permitAll()
                 .and()
                     .oauth2Login()
+                    .clientRegistrationRepository(clientRegistrationRepository)
                     .loginPage("/Login")
                     .defaultSuccessUrl("/main")
                     .userInfoEndpoint()
