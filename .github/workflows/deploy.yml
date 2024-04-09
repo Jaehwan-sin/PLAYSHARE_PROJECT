@@ -8,7 +8,7 @@ on:
 env:
   PROJECT_NAME: playshare
   BUCKET_NAME: playshare-bucket
-  CODE_DEPLOY_APP_NAME: playshare_app
+  CODE_DEPLOY_APP_NAME: playshare-spotify
   DEPLOYMENT_GROUP_NAME: playshare-spotify-depolygroup
 
 jobs:
