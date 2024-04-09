@@ -25,6 +25,11 @@ public class HomeController {
         return "ok";
     }
 
+    @GetMapping("/hello")
+    public String check() {
+        return "ci cd aws 정상작동";
+    }
+
     @GetMapping("/api/v1/user")
     public String user() {
         return "user";
