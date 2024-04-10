@@ -23,7 +23,7 @@ public class HomeController {
     @GetMapping("/")
     public String check() {
         return "ok";
-    }
+    } 
 
     @GetMapping("/hello")
     public String cicd_check() {
