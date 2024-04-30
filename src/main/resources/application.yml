@@ -59,18 +59,18 @@
  spring:
    security:
      oauth2:
-       client: 
+       client:
          registration:
            google:
-             client-id:
-             client-secret:
+             client-id: 491232934378-i704gil5nvpbtmpu9nue8do204ih040j.apps.googleusercontent.com
+             client-secret: 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
              scope:
                - email
                - profile
 
            naver:
-             client-id:
-             client-secret:
+             client-id: RUpWQkdeeLRarbdG0qFV
+             client-secret: _s0TjpzyFP
              scope:
                - name
                - email
