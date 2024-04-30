@@ -6,7 +6,7 @@ WORKDIR /app
 
 # 애플리케이션 JAR 파일 복사
 # COPY target/spotify-0.0.1-SNAPSHOT.jar /app/spotify.jar
-COPY libs/spotify-0.0.1-SNAPSHOT.jar /app/spotify.jar
+COPY build/libs/spotify-0.0.1-SNAPSHOT.jar /app/spotify.jar
 
 # 포트 노출
 EXPOSE 8081
