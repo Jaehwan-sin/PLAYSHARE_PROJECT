@@ -59,7 +59,7 @@
  spring:
    security:
      oauth2:
-       client:
+       client: 
          registration:
            google:
              client-id:
