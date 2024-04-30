@@ -59,7 +59,8 @@
 spring:
   datasource:
     driver-class-name: org.mariadb.jdbc.Driver
-    url: jdbc:mariadb://database-playshare.czo86kyky04z.ap-northeast-2.rds.amazonaws.com:3306/spotify
+#    url: jdbc:mariadb://database-playshare.czo86kyky04z.ap-northeast-2.rds.amazonaws.com:3306/spotify
+    url: jdbc:mariadb://172.30.1.11:3308/spotify
     username: admin
     password: jaehwan1!
 
