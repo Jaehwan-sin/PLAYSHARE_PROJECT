@@ -88,9 +88,9 @@
    datasource:
      driver-class-name: org.mariadb.jdbc.Driver
      url: jdbc:mariadb://database-playshare.czo86kyky04z.ap-northeast-2.rds.amazonaws.com:3306/spotify
-     username: hr
-     password: 123456
- 
+     username: admin
+     password: jaehwan1!
+
    logging:
      level:
        org:
