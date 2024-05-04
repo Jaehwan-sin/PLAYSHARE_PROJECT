@@ -2,7 +2,7 @@
 <img style="width = 1400px;" alt="playshare" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/aafd77a0-b16c-466f-bfd0-43940980b8ac">
 
 ## 목차
-- [프로젝트 소개](#프로젝트-소개)
+- [프로젝트 소개](#프로젝트-소개) 
 - [개발 환경](#개발-환경)
 - [주요 기능](#주요-기능)
 - [화면 구성](#화면-구성)
