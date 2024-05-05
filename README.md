@@ -44,6 +44,8 @@
 ## 주요 기능
 회원가입, 로그인, 플레이리스트 등록 / 삭제, 댓글, 좋아요
 
+## 프로젝트 아키텍처
+
 ## 화면 구성 
 #### 메인 페이지
 <img style="width: 1400px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/6c52efe8-a666-4b85-8835-069539e807ed"/> <br>
