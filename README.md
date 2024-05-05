@@ -42,12 +42,13 @@
 <br>
 
 ## ERD 설계
-<img style="width = 1400px;" alt="ERD" src="https://github.com/Jaehwan-sin/PLAYSHARE_PROJECT/assets/84274952/c515a6ab-969e-4469-85bb-6df3fea757d7]https://github.com/Jaehwan-sin/PLAYSHARE_PROJECT/assets/84274952/1aad3b69-3a9a-4c1a-b863-69b8d510be8d">
+<img style="width = 1400px;" alt="ERD" src="https://github.com/Jaehwan-sin/PLAYSHARE_PROJECT/assets/84274952/1aad3b69-3a9a-4c1a-b863-69b8d510be8d">
 
 ## 주요 기능
 회원가입, 로그인, 플레이리스트 등록 / 삭제, 댓글, 좋아요
 
 ## 프로젝트 아키텍처
+<img style="width = 1400px;" alt="ERD" src="https://github.com/Jaehwan-sin/PLAYSHARE_PROJECT/assets/84274952/2a9e12ba-0197-43f8-860d-37c3efd750b2">
 
 ## 화면 구성 
 #### 메인 페이지
