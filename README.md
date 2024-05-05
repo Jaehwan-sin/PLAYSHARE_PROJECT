@@ -52,10 +52,10 @@
 ## 화면 구성 
 #### 메인 페이지
 <img style="width: 1400px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/6c52efe8-a666-4b85-8835-069539e807ed"/> <br>
+#### **회원가입 및 로그인**
+<img style="width: 1400px;" src="https://github.com/Jaehwan-sin/PLAYSHARE_PROJECT/assets/84274952/e88864d9-40e1-411e-8bbd-51ab403dc073"/> <br>
 #### **플레이리스트 등록**
-<img style="width: 1400px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/6123a29f-812a-420b-96a4-6bbdcf9ab184"/> <br>
-#### **플레이리스트 목록**
-<img style="width: 1400px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/4423466c-ff12-46ca-a410-214f4224fb8d"/> <br>
-#### **플레이리스트 상세보기**
-<img style="width: 1400px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/816c77c9-31d8-43ec-b844-e1c5d40c069f"/>
+<img style="width: 1400px;" src="https://github.com/Jaehwan-sin/PLAYSHARE_PROJECT/assets/84274952/7e99d2c7-8952-4918-8b8c-80f767b13631"/> <br>
+
+
 
