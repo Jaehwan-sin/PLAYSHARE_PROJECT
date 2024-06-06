@@ -42,8 +42,3 @@ tasks.named('test') {
 	useJUnitPlatform()
 }
 
-//스프링 클라우드 환경에서 서비스 끼리 통신을 어떻게 하는지에 대해서도 파악하고 있으면 좋음(feignClient)
-//spring cloud eureka(로드 밸런싱), spring cloud gateway(어떤 역할을 하는지, 왜 쓰는지), service(유레카 클라이언트 설정)
-//saga pattern
-//cqrs
-//01055183002
