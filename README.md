@@ -15,7 +15,7 @@
    
 #### **프로젝트 개발기간**  
 **개발 인원** :	1인 <br>
-**개발 기간** :	2024년 2월 1일 ~ 2024년 3월 14일 
+**개발 기간** :	2024년 4월 ~ 2024년 5월
 
 ## 화면 디자인
 <img style="width = 1400px;" alt="화면 디자인" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/3448ff2a-1083-48b5-9fcf-e33cfd5d70a5](https://github.com/Jaehwan-sin/PLAYSHARE_PROJECT/assets/84274952/c515a6ab-969e-4469-85bb-6df3fea757d7">
