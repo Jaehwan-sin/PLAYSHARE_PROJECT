@@ -48,7 +48,7 @@
 회원가입, 로그인, 플레이리스트 등록 / 삭제, 댓글, 좋아요
 
 ## 프로젝트 아키텍처
-<img style="width = 1400px;" alt="ERD" src="https://github.com/Jaehwan-sin/PLAYSHARE_PROJECT/assets/84274952/2a9e12ba-0197-43f8-860d-37c3efd750b2">
+<img style="width=1400px;" alt="프로젝트 아키텍처" src="https://github.com/Jaehwan-sin/PLAYSHARE_PROJECT/assets/84274952/33c3f078-ac83-4e8b-a241-bb412659b89e">
 
 ## 화면 구성 
 #### 메인 페이지
