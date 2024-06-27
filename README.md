@@ -31,21 +31,28 @@
 
 #### **Backend**
 ![Java](https://img.shields.io/badge/java_17-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring_2.6.0-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/spring_3.2.2-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D9281A.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 #### **Tools**
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-4479A1.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 <br>
 
 ## ERD 설계
 <img style="width = 1400px;" alt="ERD" src="https://github.com/Jaehwan-sin/PLAYSHARE_PROJECT/assets/84274952/1aad3b69-3a9a-4c1a-b863-69b8d510be8d">
 
 ## 주요 기능
-회원가입, 로그인, 플레이리스트 등록 / 삭제, 댓글, 좋아요
+**Restful API**적 설계 <br>
+**Websocket을 이용한 실시간 알림 기능** 구현 <br>
+Github CI/CD 파이프라인을 통해 **AWS의 Docker 환경에 자동 빌드 및 배포** <br>
+Redis 캐싱 전략 적용하여 **조회 성능 65% 개선** <br>
+Redis 분산 락 적용하여 **동시성 이슈 문제 해결** <br>
+Spring Security를 이용한 OAuth2 로그인 기능 및 **JWT 토큰 부여로 보안 강화** <br>
+@EntityGraph를 이용한 **쿼리 최적화** <br>
 
 ## 프로젝트 아키텍처
 <img style="width=1400px;" alt="프로젝트 아키텍처" src="https://github.com/Jaehwan-sin/PLAYSHARE_PROJECT/assets/84274952/33c3f078-ac83-4e8b-a241-bb412659b89e">
