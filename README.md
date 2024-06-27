@@ -43,7 +43,7 @@
 <br>
 
 ## ERD 설계
-<img style="width = 1400px;" alt="ERD" src="https://github.com/Jaehwan-sin/PLAYSHARE_PROJECT/assets/84274952/1aad3b69-3a9a-4c1a-b863-69b8d510be8d">
+<img width="1400px" alt="image" src="https://github.com/Jaehwan-sin/PLAYSHARE_PROJECT/assets/84274952/2b232664-d691-48ac-8659-2f13f9533444">
 
 ## 주요 기능
 **Restful API**적 설계 <br>
@@ -61,9 +61,11 @@ Spring Security를 이용한 OAuth2 로그인 기능 및 **JWT 토큰 부여로 
 #### 메인 페이지
 <img style="width: 1400px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/6c52efe8-a666-4b85-8835-069539e807ed"/> <br>
 #### **회원가입 및 로그인**
-<img style="width: 1400px;" src="https://github.com/Jaehwan-sin/PLAYSHARE_PROJECT/assets/84274952/e88864d9-40e1-411e-8bbd-51ab403dc073"/> <br>
+<img width="1400px" alt="image" src="https://github.com/Jaehwan-sin/PLAYSHARE_PROJECT/assets/84274952/6c1dd7c9-8462-4efb-9efe-e3145b9411a9"> <br>
 #### **플레이리스트 등록**
 <img style="width: 1400px;" src="https://github.com/Jaehwan-sin/PLAYSHARE_PROJECT/assets/84274952/7e99d2c7-8952-4918-8b8c-80f767b13631"/> <br>
+
+
 
 
 
